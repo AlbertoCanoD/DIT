@@ -38,7 +38,7 @@ I recommend using a [virtual environment](https://docs.python.org/3/tutorial/ven
 
 ## Notebooks
 
-- Computing grayscaled histogram
+- [Computing grayscaled histogram](https://github.com/AlbertoCanoD/DIT/blob/8cb7ec8a77ac5377820efd3eb4e662a662a683ab/notebooks/GrayHist.ipynb)
 - Computing coloured histogram
 
 ## Future work
