@@ -1,4 +1,4 @@
-# DIT(Digital Images Tools)
+Digital Images Tools
 
 ## Abstract
 
