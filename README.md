@@ -41,7 +41,7 @@ I recommend using a [virtual environment](https://docs.python.org/3/tutorial/ven
 ### In addition to the scripts to run the programs, notebooks explaining how the app works are also available.
 
 - [Computing grayscaled histogram](https://github.com/AlbertoCanoD/DIT/blob/8cb7ec8a77ac5377820efd3eb4e662a662a683ab/notebooks/GrayHist.ipynb)
-- Computing coloured histogram
+- [Computing coloured histogram](https://github.com/AlbertoCanoD/DIT/blob/8651b28b26a30bb28a20d467b052800e61f21e49/notebooks/ColourHist.ipynb)
 
 ## Future work
 
