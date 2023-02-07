@@ -1,4 +1,4 @@
-# Digital Images Tools
+# [Web Page](https://albertocanod.github.io/DIT/)
 
 ## Abstract
 
@@ -33,8 +33,6 @@ I recommend using a [virtual environment](https://docs.python.org/3/tutorial/ven
 - argparse
 
 `pip install argparse`
-
-
 
 ## Notebooks
 
